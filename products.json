@@ -1,0 +1,579 @@
+{
+  "electric": [
+    {
+      "name": "ESP LTD Arrow Black Metal",
+      "description": "Electric guitar",
+      "imageUrl": "images/e-guitar1.jpg",
+      "price": "$299.99",
+      "discountPrice": "$232.32",
+      "color": "black"
+    },
+    {
+      "name": "Ibanez PS60-SSL",
+      "description": "Electric guitar",
+      "imageUrl": "images/e-guitar2.jpg",
+      "price": "$300.00",
+      "color": "silver"
+    },
+    {
+      "name": "Jackson JS Series Dinky Arch Top JS32 DKA Satin Black",
+      "description": "Electric guitar",
+      "imageUrl": "images/e-guitar3.jpg",
+      "price": "$299.99",
+      "color": "black"
+    },
+    {
+      "name": "ESP LTD EX-401 Snow White",
+      "description": "Electric guitar",
+      "imageUrl": "images/e-guitar4.jpg",
+      "price": "$999.99",
+      "discountPrice": "$860.25",
+      "color": "white"
+    },
+    {
+      "name": "Jackson JS22 Dinky Arch Top AH Metallic Blue",
+      "description": "Electric guitar",
+      "imageUrl": "images/e-guitar5.jpg",
+      "price": "$299.99",
+      "color": "blue"
+    },
+    {
+      "name": "ESP LTD F-10KIT Black",
+      "description": "Electric guitar",
+      "imageUrl": "images/e-guitar6.jpg",
+      "price": "$201.99",
+      "discountPrice": "$189.00",
+      "color": "black"
+    },
+    
+    {
+      "name": "Epiphone Dave Mustaine Prophecy Flying V Aged Dark Red Burst",
+      "description": "Electric guitar",
+      "imageUrl": "images/e-guitar8.jpg",
+      "price": "$1499.99",
+      "discountPrice": "$1280.00",
+      "color": "red"
+    },
+    {
+      "name": "ESP LTD EX-201 Black Satin",
+      "description": "Electric guitar",
+      "imageUrl": "images/e-guitar9.jpg",
+      "price": "$600.00",
+      "color": "black"
+    },
+    {
+      "name": "ESP LTD Alexi Ripped Sawtooth Purple Fade Satin",
+      "description": "Electric guitar",
+      "imageUrl": "images/e-guitar10.jpg",
+      "price": "$1799.99",
+      "color": "purple"
+    },
+    {
+      "name": "Chapman Guitars Ghost Fret Pro Satin Blue Burst",
+      "description": "Electric guitar",
+      "imageUrl": "images/e-guitar11.jpg",
+      "price": "$789.99",
+      "discountPrice": "$723.50",
+      "color": "blue"
+    },
+    {
+      "name": "Jackson Pro Series Rhoads RR24 EB Lightning Crackle",
+      "description": "Electric guitar",
+      "imageUrl": "images/e-guitar12.jpg",
+      "price": "$655.99",
+      "color": "blue"
+    },
+    {
+      "name": "Hagstrom Fantomen Worn Denim",
+      "description": "Electric guitar",
+      "imageUrl": "images/e-guitar13.jpg",
+      "price": "$877.00",
+      "color": "blue"
+    },
+    {
+      "name": "Jackson X Series Kelly KEXM MN Neon Yellow",
+      "description": "Electric guitar",
+      "imageUrl": "images/e-guitar14.jpg",
+      "price": "$777.00",
+      "color": "yellow"
+    },
+    {
+      "name": "Epiphone Flying V Prophecy Yellow Tiger Aged Gloss",
+      "description": "Electric guitar",
+      "imageUrl": "images/e-guitar15.jpg",
+      "price": "$837.99",
+      "discountPrice": "$799.99",
+      "color": "yellow"
+    },
+    {
+      "name": "Ibanez GRG121DX-BKF Black Flat",
+      "description": "Electric guitar",
+      "imageUrl": "images/e-guitar16.jpg",
+      "price": "$199.99",
+      "color": "black"
+    },
+    {
+      "name": "Fender Squier Affinity Series Telecaster LRL WPG Olympic White",
+      "description": "Electric guitar",
+      "imageUrl": "images/e-guitar17.jpg",
+      "price": "$220.00",
+      "color": "white"
+    },
+    {
+      "name": "Sire Larry Carlton T7 FM Transparent Blue",
+      "description": "Electric guitar",
+      "imageUrl": "images/e-guitar18.jpg",
+      "price": "$560.29",
+      "color": "blue"
+    },
+    {
+      "name": "Ibanez GRX70QA-TRB Transparent Red Burst",
+      "description": "Electric guitar",
+      "imageUrl": "images/e-guitar19.jpg",
+      "price": "$210.19",
+      "color": "red"
+    },
+    {
+      "name": "Ibanez GRX70QA-TBB Transparent Blue Burst",
+      "description": "Electric guitar",
+      "imageUrl": "images/e-guitar20.jpg",
+      "price": "$189.99",
+      "color": "blue"
+    },
+    {
+      "name": "SX EH3 Gold",
+      "description": "Electric guitar",
+      "imageUrl": "images/e-guitar21.jpg",
+      "price": "$293.55",
+      "discountPrice": "$222.50",
+      "color": "yellow"
+    },
+    {
+      "name": "Schecter Nick Johnston Atomic Snow",
+      "description": "Electric guitar",
+      "imageUrl": "images/e-guitar22.jpg",
+      "price": "$999.99",
+      "color": "white"
+    },
+    {
+      "name": "Fender Squier FSR Classic Vibe '50s Telecaster MN Sonic Blue",
+      "description": "Electric guitar",
+      "imageUrl": "images/e-guitar23.jpg",
+      "price": "$432.20",
+      "color": "blue"
+    },
+    {
+      "name": "Jackson JS12 Dinky AH Metallic Red",
+      "description": "Electric guitar",
+      "imageUrl": "images/e-guitar24.jpg",
+      "price": "$179.99",
+      "discountPrice": "$120.50",
+      "color": "red"
+    },
+    {
+      "name": "Cort X300 Flip Purple",
+      "description": "Electric guitar",
+      "imageUrl": "images/e-guitar25.jpg",
+      "price": "$288.89",
+      "color": "purple"
+    },
+    {
+      "name": "Ibanez AS73G-MPF Metallic Purple Flat",
+      "description": "Electric guitar",
+      "imageUrl": "images/e-guitar26.jpg",
+      "price": "$499.99",
+      "color": "purple"
+    }
+  ],
+
+  "classical": [
+    {
+      "name": "Fender CD-60S WN Black",
+      "description": "Classical Guitars",
+      "imageUrl": "images/c-guitar1.jpg",
+      "price": "$155.55",
+      "color": "black"
+    },
+    {
+      "name": "LAG Tramontane T70D Natural Satin",
+      "description": "Classical Guitars",
+      "imageUrl": "images/c-guitar2.jpg",
+      "price": "$320.20",
+      "color": "yellow"
+    },
+    {
+      "name": "Lava Music ME 2 E Blue",
+      "description": "Classical Guitars",
+      "imageUrl": "images/c-guitar3.jpg",
+      "price": "$600",
+      "discountPrice": "$545.00",
+      "color": "blue"
+    },
+    {
+      "name": "Yamaha FG820SBII Sunset Blue",
+      "description": "Classical Guitars",
+      "imageUrl": "images/c-guitar4.jpg",
+      "price": "$370.45",
+      "color": "blue"
+    },
+    {
+      "name": "Ibanez AW54JR-OPN Open Pore Natural",
+      "description": "Classical Guitars",
+      "imageUrl": "images/c-guitar5.jpg",
+      "price": "$280.00",
+      "color": "brown"
+    },
+    {
+      "name": "Eko guitars NXT A100 Blue",
+      "description": "Classical Guitars",
+      "imageUrl": "images/c-guitar6.jpg",
+      "price": "$166.44",
+      "discountPrice": "$120.50",
+      "color": "blue"
+    },
+    {
+      "name": "Tanglewood TWCR D Whiskey Barrel Burst Satin",
+      "description": "Classical Guitars",
+      "imageUrl": "images/c-guitar7.jpg",
+      "price": "$99.99",
+      "color": "brown"
+    },
+    {
+      "name": "Ibanez AW54-OPN Open Pore Natural",
+      "description": "Classical Guitars",
+      "imageUrl": "images/c-guitar8.jpg",
+      "price": "$245.75",
+      "color": "brown"
+    },
+    {
+      "name": "Pasadena SG026C-38 Red Sunburst",
+      "description": "Classical Guitars",
+      "imageUrl": "images/c-guitar9.jpg",
+      "price": "$59.99",
+      "color": "red"
+    },
+    {
+      "name": "Yamaha FS830 Dusk Sun Red",
+      "description": "Classical Guitars",
+      "imageUrl": "images/c-guitar10.jpg",
+      "price": "$499.99",
+      "discountPrice": "$410.50",
+      "color": "red"
+    },
+
+    {
+      "name": "Fender FA-15 Red",
+      "description": "Classical Guitars",
+      "imageUrl": "images/c-guitar11.jpg",
+      "price": "$185.45",
+      "color": "red"
+    },
+    {
+      "name": "Lava Music Blue Lava Original Acoustic White",
+      "description": "Classical Guitars",
+      "imageUrl": "images/c-guitar12.jpg",
+      "price": "$339.99",
+      "color": "white"
+    },
+    {
+      "name": "Lava Music FreeBoost White",
+      "description": "Classical Guitars",
+      "imageUrl": "images/c-guitar13.jpg",
+      "price": "$777.99",
+      "color": "white"
+    },
+    {
+      "name": "Yamaha FG800M Natural Matte",
+      "description": "Classical Guitars",
+      "imageUrl": "images/c-guitar14.jpg",
+      "price": "$260.00",
+      "discountPrice": "$203.50",
+      "color": "yellow"
+    },
+    {
+      "name": "Cort AF510 Black Satin",
+      "description": "Classical Guitars",
+      "imageUrl": "images/c-guitar15.jpg",
+      "price": "$211.25",
+      "color": "black"
+    }
+  ],
+
+  "bass": [
+    {
+      "name": "Cort Action Bass Plus Trans Red",
+      "description": "Bass Guitar",
+      "imageUrl": "images/b-guitar1.jpg",
+      "price": "$212.55",
+      "color": "red"
+    },
+    {
+      "name": "Fender Squier Classic Vibe Jaguar Bass IL Black",
+      "description": "Bass Guitar",
+      "imageUrl": "images/b-guitar2.jpg",
+      "price": "$460.20",
+      "color": "black"
+    },
+    {
+      "name": "Yamaha TRBX504 RW Translucent Black",
+      "description": "Bass Guitar",
+      "imageUrl": "images/b-guitar3.jpg",
+      "price": "$600",
+      "discountPrice": "$550.00",
+      "color": "black"
+    },
+    {
+      "name": "Schecter OMEN 4 Bass Walnut Satin Walnut Satin",
+      "description": "Bass Guitar",
+      "imageUrl": "images/b-guitar4.jpg",
+      "price": "$725.45",
+      "color": "brown"
+    },
+    {
+      "name": "Ibanez SR306EB-WK Weathered Black",
+      "description": "Bass Guitar",
+      "imageUrl": "images/b-guitar5.jpg",
+      "price": "$550.00",
+      "color": "black"
+    },
+    {
+      "name": "Ibanez SRMD200-CAM Candy Apple Matte",
+      "description": "Bass Guitar",
+      "imageUrl": "images/b-guitar6.jpg",
+      "price": "$312.44",
+      "discountPrice": "$299.99",
+      "color": "red"
+    },
+    {
+      "name": "Ibanez SR505E-BM Brown Mahogany",
+      "description": "Bass Guitar",
+      "imageUrl": "images/b-guitar7.jpg",
+      "price": "$742.75",
+      "color": "brown"
+    },
+    {
+      "name": "Ibanez SR1350B-DUF Dual Mocha Burst Flat",
+      "description": "Bass Guitar",
+      "imageUrl": "images/b-guitar8.jpg",
+      "price": "$1400.25",
+      "discountPrice": "$1230.50",
+      "color": "brown"
+    },
+    {
+      "name": "Ibanez GSR180-BEM Baltic Blue Metallic",
+      "description": "Bass Guitar",
+      "imageUrl": "images/b-guitar9.jpg",
+      "price": "$189.99",
+      "color": "blue"
+    },
+
+    {
+      "name": "Ibanez TMB100M-MWF Mustard Yellow",
+      "description": "Bass Guitar",
+      "imageUrl": "images/b-guitar10.jpg",
+      "price": "$315.78",
+      "color": "yellow"
+    },
+    {
+      "name": "Yamaha TRBX174 RW Dark Blue Metallic",
+      "description": "Bass Guitar",
+      "imageUrl": "images/b-guitar11.jpg",
+      "price": "$311.21",
+      "color": "blue"
+    },
+    {
+      "name": "Jackson JS Series Spectra Bass JS2 IL Metallic Blue",
+      "description": "Bass Guitar",
+      "imageUrl": "images/b-guitar12.jpg",
+      "price": "$199.99",
+      "discountPrice": "$157.50",
+      "color": "blue"
+    },
+    {
+      "name": "Jackson David Ellefson CBX IV Quicksilver",
+      "description": "Bass Guitar",
+      "imageUrl": "images/b-guitar13.jpg",
+      "price": "$589.99",
+      "color": "silver"
+    },
+    {
+      "name": "Fender Squier Affinity Series Precision Bass PJ MN BPG Olympic White",
+      "description": "Bass Guitar",
+      "imageUrl": "images/b-guitar14.jpg",
+      "price": "$212.25",
+      "color": "white"
+    },
+    {
+      "name": "Yamaha BB234 RW Vintage White",
+      "description": "Bass Guitar",
+      "imageUrl": "images/b-guitar15.jpg",
+      "price": "$465.75",
+      "discountPrice": "$403.00",
+      "color": "white"
+    },
+    {
+      "name": "Sire Marcus Miller V7 Swamp Ash-4 2nd Gen White Blond",
+      "description": "Bass Guitar",
+      "imageUrl": "images/b-guitar16.jpg",
+      "price": "$674.30",
+      "color": "white"
+    },
+    {
+      "name": "Jackson David Ellefson CBX V IL Quicksilver",
+      "description": "Bass Guitar",
+      "imageUrl": "images/b-guitar17.jpg",
+      "price": "$628.25",
+      "color": "silver"
+    },
+    {
+      "name": "Ibanez GSRM20-MPL Metallic Purple",
+      "description": "Bass Guitar",
+      "imageUrl": "images/b-guitar18.jpg",
+      "price": "$112.25",
+      "discountPrice": "$99.9",
+      "color": "purple"
+    },
+    {
+      "name": "Spector NS Pulse II 5 Ultra Violet Matte",
+      "description": "Bass Guitar",
+      "imageUrl": "images/b-guitar19.jpg",
+      "price": "$1126.85",
+      "color": "purple"
+    },
+    {
+      "name": "Yamaha TRBX 305 Candy Apple Red",
+      "description": "Bass Guitar",
+      "imageUrl": "images/b-guitar20.jpg",
+      "price": "$316.55",
+      "color": "red"
+    }
+  ],
+
+  "acoustic": [
+    {
+      "name": "Fender FSR CD-60S Exotic Aged Natural",
+      "description": "Acoustic Guitars",
+      "imageUrl": "images/a-guitar11.jpg",
+      "price": "$230.55",
+      "color": "yellow"
+    },
+    {
+      "name": "Yamaha GFG820BLII Black",
+      "description": "Acoustic Guitars",
+      "imageUrl": "images/a-guitar2.jpg",
+      "price": "$320.20",
+      "discountPrice": "$299.99",
+      "color": "black"
+    },
+    {
+      "name": "Tanglewood TWBB O Black Satin",
+      "description": "Acoustic Guitars",
+      "imageUrl": "images/a-guitar3.jpg",
+      "price": "$153.42",
+      "color": "black"
+    },
+    {
+      "name": "Yamaha FS820BLII Black",
+      "description": "Acoustic Guitars",
+      "imageUrl": "images/a-guitar4.jpg",
+      "price": "$263.15",
+      "color": "black"
+    },
+    {
+      "name": "Arrow Bronze Black",
+      "description": "Acoustic Guitars",
+      "imageUrl": "images/a-guitar5.jpg",
+      "price": "$117.99",
+      "discountPrice": "$99.99",
+      "color": "black"
+    },
+    {
+      "name": "SX SD104KBUS Blue Sunburst",
+      "description": "Acoustic Guitars",
+      "imageUrl": "images/a-guitar6.jpg",
+      "price": "$76.44",
+      "color": "blue"
+    },
+    {
+      "name": "Cort L450C Natural Satin",
+      "description": "Acoustic Guitars",
+      "imageUrl": "images/a-guitar7.jpg",
+      "price": "$299.99",
+      "color": "brown"
+    },
+    {
+      "name": "Recording King RPS-7-FE3-TS Tobacco Sunburst",
+      "description": "Acoustic Guitars",
+      "imageUrl": "images/a-guitar8.jpg",
+      "price": "$55.75",
+      "color": "brown"
+    },
+    {
+      "name": "Recording King RPS-9-TS Tobacco Sunburst",
+      "description": "Acoustic Guitars",
+      "imageUrl": "images/a-guitar9.jpg",
+      "price": "$199.99",
+      "discountPrice": "$150.00",
+      "color": "brown"
+    },
+    {
+      "name": "Yamaha FG820SBII Sunset Blue",
+      "description": "Acoustic Guitars",
+      "imageUrl": "images/a-guitar10.jpg",
+      "price": "$276.29",
+      "color": "blue"
+    },
+
+    {
+      "name": "LAG Tramontane T70A Natural Satin",
+      "description": "Acoustic Guitars",
+      "imageUrl": "images/a-guitar11.jpg",
+      "price": "$235.75",
+      "color": "yellow"
+    },
+    {
+      "name": "Yamaha F310 MK2 Natural",
+      "description": "Acoustic Guitars",
+      "imageUrl": "images/a-guitar12.jpg",
+      "price": "$149.99",
+      "discountPrice": "$115.60",
+      "color": "yellow"
+    },
+    {
+      "name": "Pasadena SG028 Natural",
+      "description": "Acoustic Guitars",
+      "imageUrl": "images/a-guitar13.jpg",
+      "price": "$66.99",
+      "color": "yellow"
+    },
+    {
+      "name": "Yamaha FG830 Natural",
+      "description": "Acoustic Guitars",
+      "imageUrl": "images/a-guitar14.jpg",
+      "price": "$460.00",
+      "color": "yellow"
+    },
+    {
+      "name": "Eko guitars NXT A100 Red",
+      "description": "Acoustic Guitars",
+      "imageUrl": "images/a-guitar15.jpg",
+      "price": "$174.42",
+      "discountPrice": "$122.20",
+      "color": "red"
+    },
+    {
+      "name": "Pasadena SG028 Red Sunburst",
+      "description": "Acoustic Guitars",
+      "imageUrl": "images/a-guitar16.jpg",
+      "price": "$63.33",
+      "color": "red"
+    },
+    {
+      "name": "Recording King RPS-7-GY Grey",
+      "description": "Acoustic Guitars",
+      "imageUrl": "images/a-guitar17.jpg",
+      "price": "$102.33",
+      "color": "white"
+    }
+  ]
+}

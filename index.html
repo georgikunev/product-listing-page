@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Product Listing Page</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="sticky">
+      <div class="logo">
+        <img src="images/logo.png" />
+        <h1>GuitarZone</h1>
+      </div>
+      <nav>
+        <select id="category-dropdown">
+          <option value="electric">Electric Guitars</option>
+          <option value="classical">Classical Guitars</option>
+          <option value="bass">Electric Bass Guitars</option>
+          <option value="acoustic">Acoustic Guitars</option>
+        </select>
+      </nav>
+    </header>
+    <main>
+      <section class="category-info">
+        <h2 id="category-name">Electric Guitars</h2>
+        <p id="category-description">Electric Guitars</p>
+      </section>
+      <p class="product-counter" id="product-counter"></p>
+
+      <section class="sorting" id="sorting-section">
+        <label for="sort">Sort by:</label>
+        <select id="sort">
+          <option value="name-asc">Alphabetical a-z</option>
+          <option value="name-desc">Alphabetical z-a</option>
+          <option value="price-asc">Price ascending</option>
+          <option value="price-desc">Price descending</option>
+        </select>
+      </section>
+      <div class="content-wrapper">
+        <section class="sorting-filters-wrapper">
+          <section class="filtering">
+            <div class="filters-box" onclick="toggleFilters()">Filters</div>
+            <div class="filters-window" id="filtersWindow">
+              <div class="filters">
+                <h2>All Filters</h2>
+                <h4>
+                  <label for="price-range">Filter by Price:</label>
+                </h4>
+                <div class="price-filter">
+                  <input
+                    type="checkbox"
+                    name="price"
+                    id="price-under-200"
+                    value="0-200"
+                  />
+                  <label for="price-under-200">Under $200</label>
+                </div>
+                <div class="price-filter">
+                  <input
+                    type="checkbox"
+                    name="price"
+                    id="price-200-500"
+                    value="200-500"
+                  />
+                  <label for="price-200-500">$200 - $500</label>
+                </div>
+                <div class="price-filter">
+                  <input
+                    type="checkbox"
+                    name="price"
+                    id="price-500-1000"
+                    value="500-1000"
+                  />
+                  <label for="price-500-1000">$500 - $1000</label>
+                </div>
+                <div class="price-filter">
+                  <input
+                    type="checkbox"
+                    name="price"
+                    id="price-1000-1500"
+                    value="1000-1500"
+                  />
+                  <label for="price-1000-1500">$1000 - $1500</label>
+                </div>
+                <div class="price-filter">
+                  <input
+                    type="checkbox"
+                    name="price"
+                    id="over-1500"
+                    value="over-1500"
+                  />
+                  <label for="over-1500">Over $1500</label>
+                </div>
+                <h4>
+                  <label for="color-filter">Filter by Color:</label>
+                </h4>
+
+                <div class="color-filter">
+                  <input
+                    type="checkbox"
+                    name="color"
+                    id="color-red"
+                    value="red"
+                  />
+                  <label for="color-red">Red</label>
+                </div>
+                <div class="color-filter">
+                  <input
+                    type="checkbox"
+                    name="color"
+                    id="color-blue"
+                    value="blue"
+                  />
+                  <label for="color-blue">Blue</label>
+                </div>
+                <div class="color-filter">
+                  <input
+                    type="checkbox"
+                    name="color"
+                    id="color-black"
+                    value="black"
+                  />
+                  <label for="color-black">Black</label>
+                </div>
+                <div class="color-filter">
+                  <input
+                    type="checkbox"
+                    name="color"
+                    id="color-white"
+                    value="white"
+                  />
+                  <label for="color-white">White</label>
+                </div>
+                <div class="color-filter">
+                  <input
+                    type="checkbox"
+                    name="color"
+                    id="color-purple"
+                    value="purple"
+                  />
+                  <label for="color-purple">Purple</label>
+                </div>
+                <div class="color-filter">
+                  <input
+                    type="checkbox"
+                    name="color"
+                    id="color-yellow"
+                    value="yellow"
+                  />
+                  <label for="color-yellow">Yellow</label>
+                </div>
+                <div class="color-filter">
+                  <input
+                    type="checkbox"
+                    name="color"
+                    id="color-silver"
+                    value="silver"
+                  />
+                  <label for="color-silver">Silver</label>
+                </div>
+                <div class="color-filter">
+                  <input
+                    type="checkbox"
+                    name="color"
+                    id="color-brown"
+                    value="brown"
+                  />
+                  <label for="color-brown">Brown</label>
+                </div>
+              </div>
+            </div>
+          </section>
+        </section>
+        <section class="product-grid-container">
+          <div id="products" class="product-grid">
+            <!-- Product listing will be generated here -->
+          </div>
+        </section>
+      </div>
+      <button id="load-more">Load More</button>
+    </main>
+    <footer>
+      <ul>
+        <li><a href="#">T&C</a></li>
+        <li><a href="#">Privacy Policy</a></li>
+        <li><a href="#">Contact Us</a></li>
+      </ul>
+    </footer>
+    <script src="script.js"></script>
+  </body>
+</html>
