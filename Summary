@@ -1,0 +1,10 @@
+The application is a product listing page where various products are displayed in a grid format.
+The basic structure and layout of the page have been created using HTML and styled using CSS. Flexbox has been used for responsive design and positioning elements on the page.
+JavaScript has been used to add dynamic functionality to the page. It is used to load products, handle filtering by price and color, sorting, and pagination.
+Product data is fetched from a JSON file containing information about different products, such as name, description, price, discount price, color, and image URLs.
+Users can filter products based on price ranges and colors. They can also sort the products by name and price (ascending or descending).
+A star rating system has been implemented using JavaScript and CSS. Users can rate products by clicking on the stars.
+An "Add to Cart" button is provided for each product.
+The page is designed to be responsive and adapt to different screen sizes using CSS media queries.
+The page supports interactivity, such as hovering over stars to highlight and clicking on stars to set the rating.
+The technologies used include HTML, CSS, JavaScript (Vanilla), and JSON data for the product information.
